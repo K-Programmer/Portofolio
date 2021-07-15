@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+  }
+
+.sidebar{
+ position: fixed;
+margin-top: -10px;
+margin-left: -10px;
+margin-bottom: -10px;
+  width: 400px;  
+  height: 820px;
+  background-color: #1D262D;
+  background-size: cover;
+  
+  
+}
+
+.tema{
+   position: fixed;
+color:white;
+font-family: verdana;
+font-size: 150%;
+font-weight: bolder;
+margin-top: 10px;
+margin-left: 105px;
+
+   
+  
+}
+
+.t{
+    position: fixed;
+    margin-top: 0px;
+    background-color:#009BF4 ;
+    width: 400px; 
+    height: 50px;
+}
+body{
+position: fixed;
+    background-image: url('../imgs/bg1-01.jpg');   
+   
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; 
+    background-origin: content-box;
+}

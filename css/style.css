@@ -22,6 +22,21 @@ body{
 
 }
 
+.whytextlast{
+  display: inline-block ;
+  white-space: normal;
+  margin-left: 50px;
+  text-align: center;
+  color:#1D262D;
+  font-family: verdana;
+  font-size: 80%;
+  font-weight: bolder;
+  vertical-align: middle
+
+ 
+
+}
+
 .whyI{
   margin-left: -200px;
   vertical-align: middle

@@ -229,5 +229,12 @@ margin-left: 105px;
 }
 
 .why4{
-margin-left: 100px;
+margin-left: 500px;
+}
+
+
+footer{
+  background-color: #1D262D;
+  width: 2000px;
+  margin-left: -500px;
 }
